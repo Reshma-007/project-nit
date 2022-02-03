@@ -1,0 +1,6 @@
+*.first.python
+*.second.net
+*.editor.txt
+
+!ignore.txt
+
